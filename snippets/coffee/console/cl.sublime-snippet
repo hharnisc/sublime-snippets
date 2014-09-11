@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+console.log '${1:title}', ${2:$1}$0
+]]></content>
+  <description>console.log</description>
+  <tabTrigger>cl</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

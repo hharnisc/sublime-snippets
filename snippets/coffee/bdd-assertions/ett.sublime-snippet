@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+fn = -> $0
+expect(fn).to.throw(/${1:error-text}/)
+]]></content>
+  <tabTrigger>ett</tabTrigger>
+  <description>expect to throw</description>
+  <scope>source.coffee</scope>
+</snippet>

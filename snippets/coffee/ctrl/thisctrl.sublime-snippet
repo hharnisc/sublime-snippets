@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@ctrl()
+]]></content>
+  <tabTrigger>ctrll</tabTrigger>
+  <description>@ctrl()</description>
+  <scope>source.coffee</scope>
+</snippet>

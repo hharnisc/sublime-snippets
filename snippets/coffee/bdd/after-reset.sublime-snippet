@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+after -> @reset()
+]]></content>
+  <tabTrigger>afterreset</tabTrigger>
+  <description>after -> @reset()</description>
+  <scope>source.coffee</scope>
+</snippet>

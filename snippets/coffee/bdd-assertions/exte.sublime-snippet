@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect(${1:value})$2.to.exist
+]]></content>
+  <description>expect to exist</description>
+  <tabTrigger>exte</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

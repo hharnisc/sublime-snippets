@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+init: ->
+ready: ->
+destroyed: ->
+model: ->
+api: {}
+helpers: {}
+events: {}
+]]></content>
+  <tabTrigger>ctrlm</tabTrigger>
+  <description>Ctrl Methods</description>
+  <scope>source.coffee</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+{{#if ${1:bool}}}
+  $0
+${2:\{\{else\}\}}
+{{/if}}
+]]></content>
+  <tabTrigger>if</tabTrigger>
+  <description>{{#if}}</description>
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+${1:prop}: (value) -> @prop '$1', value, default:${2:default}
+
+]]></content>
+  <tabTrigger>prop</tabTrigger>
+  <description>Reactive Property</description>
+  <scope>source.coffee</scope>
+</snippet>

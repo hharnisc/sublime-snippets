@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{#with ${1:value}}}
+  {{> ctrl type=type data=data $0}}
+{{/with}}
+]]></content>
+  <tabTrigger>withctrl</tabTrigger>
+  <description>ctrl: {{#with}}</description>
+  <scope>text.html</scope>
+</snippet>

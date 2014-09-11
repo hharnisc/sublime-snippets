@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+it '${1:does}', (done) ->
+  $0
+]]></content>
+  <description>it (BDD:async)</description>
+  <tabTrigger>itd</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

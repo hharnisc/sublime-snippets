@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+it.radio '${1:prop}', [${2}], -> $0
+]]></content>
+  <tabTrigger>itradio</tabTrigger>
+  <description>it.radio (BDD)</description>
+  <scope>source.coffee</scope>
+</snippet>

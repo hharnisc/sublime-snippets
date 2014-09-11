@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{{> render ctrl=${1:def} }}
+]]></content>
+  <tabTrigger>render</tabTrigger>
+  <description>{{> render }}</description>
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Deps.autorun ->
+]]></content>
+  <tabTrigger>dautorun</tabTrigger>
+  <description>Deps.autorun</description>
+  <scope>source.coffee</scope>
+</snippet>

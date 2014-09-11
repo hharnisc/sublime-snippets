@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect(${1:value}).to.equal ${0:value}
+]]></content>
+  <description>expect to equal</description>
+  <tabTrigger>exe</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

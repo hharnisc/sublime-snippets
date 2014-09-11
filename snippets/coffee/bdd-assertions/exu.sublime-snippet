@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect(${1:value})$2.to.be.undefined
+]]></content>
+  <tabTrigger>exu</tabTrigger>
+  <description>expect to be undefined</description>
+  <scope>source.coffee</scope>
+</snippet>

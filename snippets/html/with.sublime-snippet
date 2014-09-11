@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{#with ${1:value}}}
+  $0
+{{/with}}
+]]></content>
+  <tabTrigger>with</tabTrigger>
+  <description>{{#with}}</description>
+  <scope>text.html</scope>
+</snippet>

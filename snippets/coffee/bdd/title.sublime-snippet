@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@title ${1:true}
+]]></content>
+  <tabTrigger>title</tabTrigger>
+  <description>@title</description>
+  <scope>source.coffee</scope>
+</snippet>

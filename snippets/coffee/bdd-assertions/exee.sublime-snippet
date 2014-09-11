@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect(${1:value}).to.eql ${0:value}
+]]></content>
+  <tabTrigger>exee</tabTrigger>
+  <description>expect to eql</description>
+  <scope>source.coffee</scope>
+</snippet>

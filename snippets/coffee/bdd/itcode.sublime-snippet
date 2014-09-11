@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+it '`${1:does}`', -> $0
+]]></content>
+  <description>it with `code` (BDD)</description>
+  <tabTrigger>itcode</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

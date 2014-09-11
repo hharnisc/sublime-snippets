@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+Ctrl.define
+  '${1:type}':
+    init: ->
+    ready: ->
+    destroyed: ->
+    model: ->
+    api: {}
+    helpers: {}
+    events: {}
+]]></content>
+  <tabTrigger>ctrl</tabTrigger>
+  <description>Ctrl (define)</description>
+  <scope>source.coffee</scope>
+</snippet>

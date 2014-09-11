@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect(${1:value}).to.be.an.instanceOf ${0:value}
+]]></content>
+  <description>expect instance of type</description>
+  <tabTrigger>exit</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+describe '${1:suite}', (done) ->
+  $0
+]]></content>
+  <description>describe (async)</description>
+  <tabTrigger>desd</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+### @export ${1:Variable} ###
+]]></content>
+  <tabTrigger>export</tabTrigger>
+  <description></description>
+  <scope>source.coffee</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{#each ${1:array}}}
+  $0
+{{/each}}
+]]></content>
+  <tabTrigger>each</tabTrigger>
+  <description>{{ each }}</description>
+  <scope>text.html</scope>
+</snippet>

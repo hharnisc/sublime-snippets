@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+it.boolean '${1:does}', -> $0
+]]></content>
+  <description>it.boolean (BDD)</description>
+  <tabTrigger>itbool</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

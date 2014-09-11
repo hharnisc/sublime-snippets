@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<code>{{ instance }}</code>
+]]></content>
+  <tabTrigger>inst</tabTrigger>
+  <description>{{ instance }}</description>
+  <scope>text.html</scope>
+</snippet>
