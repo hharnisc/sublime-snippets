@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+# Setup initial conditions.
+]]></content>
+  <description># Setup initial conditions</description>
+  <tabTrigger>setup</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

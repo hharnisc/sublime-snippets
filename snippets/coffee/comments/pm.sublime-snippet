@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@param $0
+]]></content>
+  <tabTrigger>pm</tabTrigger>
+  <description>@param</description>
+  <scope>source.coffee</scope>
+</snippet>

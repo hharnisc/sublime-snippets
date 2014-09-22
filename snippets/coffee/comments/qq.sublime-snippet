@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+###
+$0
+###
+]]></content>
+  <description>Comment (###)</description>
+  <tabTrigger>qq</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

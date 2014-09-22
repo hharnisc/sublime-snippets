@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+# Finish up.
+]]></content>
+  <description># Finish up.</description>
+  <tabTrigger>fin</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

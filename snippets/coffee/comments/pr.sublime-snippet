@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@returns $0
+]]></content>
+  <tabTrigger>pr</tabTrigger>
+  <description>@returns</description>
+  <scope>source.coffee</scope>
+</snippet>

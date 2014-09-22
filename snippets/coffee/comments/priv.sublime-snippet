@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+# ${1:PRIVATE} ----------------------------------------------------------------------
+$0
+]]></content>
+  <description># Private</description>
+  <tabTrigger>priv</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>
