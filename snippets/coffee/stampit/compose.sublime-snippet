@@ -3,6 +3,6 @@
 ${1:MyComposedStamp} = stampit.compose($2)
 ]]></content>
   <description>stampit.compose</description>
-  <tabTrigger>scomp</tabTrigger>
+  <tabTrigger>scom</tabTrigger>
   <scope>source.coffee</scope>
 </snippet>
