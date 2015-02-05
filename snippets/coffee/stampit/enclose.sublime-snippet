@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+${1:MyStamp} = stampit().enclose ->
+  @${2:foo} = ->
+
+  return @
+]]></content>
+  <description>stampit().enclose</description>
+  <tabTrigger>senc</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

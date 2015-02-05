@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:MyStamp} = stampit().methods(
+  ${2:foo}: ->
+)
+]]></content>
+  <description>stampit().methods</description>
+  <tabTrigger>smet</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

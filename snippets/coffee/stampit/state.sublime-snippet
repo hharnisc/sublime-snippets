@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:MyStampState} = stampit().state(
+  ${2:key}: ${3:value}
+)
+]]></content>
+  <description>stampit().state</description>
+  <tabTrigger>ssta</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>
